@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Client-Side State";
+}
+
+<h2>Client-Side State Demo</h2>
+
+<!-- 1. Query String -->
+<div class="mb-4">
+    <h4>1. Query String</h4>
+    <p>Value: <strong>@ViewBag.QueryStringValue</strong></p>
+    <a href="/ClientState/Index?userName=Umesh" class="btn btn-primary btn-sm">Set Query String</a>
+</div>
+
+<!-- 2. Cookie -->
+<div class="mb-4">
+    <h4>2. Cookie</h4>
+    <p>Value: <strong>@ViewBag.CookieValue</strong></p>
+    <form action="/ClientState/SetCookie" method="post" class="d-flex gap-2">
+        <input type="text" name="cookieValue" placeholder="Enter value" class="form-control w-auto" required />
+        <button type="submit" class="btn btn-success btn-sm">Save Cookie</button>
+    </form>
+</div>
+
+<!-- 3. Hidden Field -->
+<div class="mb-4">
+    <h4>3. Hidden Field</h4>
+    @if (ViewBag.SubmittedHiddenField != null)
+    {
+        <p class="text-success">Submitted Data: <strong>@ViewBag.SubmittedHiddenField</strong></p>
+    }
+    <form action="/ClientState/ProcessHiddenField" method="post">
+        <input type="hidden" name="hiddenFieldData" value="@ViewBag.HiddenFieldValue" />
+        <button type="submit" class="btn btn-warning btn-sm">Submit Hidden Field</button>
+    </form>
+</div>

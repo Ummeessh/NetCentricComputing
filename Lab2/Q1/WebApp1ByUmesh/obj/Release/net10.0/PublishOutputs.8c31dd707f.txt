@@ -1,0 +1,7 @@
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q1\WebApp1ByUmesh\bin\Release\net10.0\publish\WebApp1ByUmesh.exe
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q1\WebApp1ByUmesh\bin\Release\net10.0\publish\appsettings.Development.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q1\WebApp1ByUmesh\bin\Release\net10.0\publish\appsettings.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q1\WebApp1ByUmesh\bin\Release\net10.0\publish\WebApp1ByUmesh.dll
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q1\WebApp1ByUmesh\bin\Release\net10.0\publish\WebApp1ByUmesh.deps.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q1\WebApp1ByUmesh\bin\Release\net10.0\publish\WebApp1ByUmesh.runtimeconfig.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q1\WebApp1ByUmesh\bin\Release\net10.0\publish\WebApp1ByUmesh.pdb

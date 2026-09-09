@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O0h2OnJA9kg=",
+  "success": true,
+  "projectFilePath": "D:\\Codes\\6th Sem\\Umesh DotNet Lab\\Lab2\\Q14\\WebApp11ByUmesh\\WebApp11ByUmesh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\10.0.11\\microsoft.aspnetcore.identity.entityframeworkcore.10.0.11.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.11\\microsoft.entityframeworkcore.10.0.11.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.11\\microsoft.entityframeworkcore.abstractions.10.0.11.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.11\\microsoft.entityframeworkcore.analyzers.10.0.11.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.11\\microsoft.entityframeworkcore.inmemory.10.0.11.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.11\\microsoft.entityframeworkcore.relational.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

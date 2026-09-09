@@ -1,0 +1,7 @@
+@{ ViewData["Title"] = "XSS Protection"; }
+
+<h2>XSS Protection Demo</h2>
+
+<p><b>Vulnerable Output:</b> @Html.Raw(ViewBag.UserInput)</p>
+
+<p><b>Defended Output (Auto-encoded):</b> @ViewBag.UserInput</p>

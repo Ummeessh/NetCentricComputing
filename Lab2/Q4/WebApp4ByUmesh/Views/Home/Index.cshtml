@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "JSON Demo";
+}
+
+<h2>JSON Demo</h2>
+
+<h3>1. Without File</h3>
+<p><strong>JSON String:</strong> @ViewBag.InMemoryJson</p>
+<p><strong>Parsed Object:</strong> ID = @ViewBag.DeserializedInMemory.Id, Name = @ViewBag.DeserializedInMemory.Name, Faculty = @ViewBag.DeserializedInMemory.Faculty</p>
+
+<hr />
+
+<h3>2. With File (data.json)</h3>
+<p><strong>JSON String:</strong> @ViewBag.FileJson</p>
+<p><strong>Parsed Object:</strong> ID = @ViewBag.DeserializedFromFile.Id, Name = @ViewBag.DeserializedFromFile.Name, Faculty = @ViewBag.DeserializedFromFile.Faculty</p>

@@ -1,0 +1,8 @@
+@{ ViewData["Title"] = "CSRF Form"; }
+
+<h2>CSRF Anti-Forgery Form</h2>
+<!-- Form automatically includes hidden Anti-Forgery Token -->
+<form asp-action="CsrfSubmit" method="post">
+    <input type="text" name="data" value="Test Data" required />
+    <button type="submit">Submit Form</button>
+</form>

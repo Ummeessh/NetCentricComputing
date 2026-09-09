@@ -1,0 +1,56 @@
+<div style="display: flex; flex-direction: column; min-height: 100vh; font-family: sans-serif; margin: -8px;">
+  <!-- Navbar -->
+  <nav style="background-color: #333; padding: 15px;">
+    <a (click)="setView('home')"
+      style="color: white; margin-right: 20px; cursor: pointer; text-decoration: none; font-weight: bold;">Home</a>
+    <a (click)="setView('calculator')"
+      style="color: white; cursor: pointer; text-decoration: none; font-weight: bold;">Calculator</a>
+  </nav>
+
+  <!-- Main Content Area -->
+  <main style="flex: 1; padding: 30px; text-align: center; background-color: #08060d; border-bottom: 1px solid #ccc;">
+    <!-- Home View -->
+    <div *ngIf="currentView === 'home'">
+      <h2 style="color: white;">Home</h2>
+      <img src="/me.jpg" alt="Your Photo" style="border-radius: 8px; max-width: 50%; height: 400px;" />
+    </div>
+
+    <!-- Calculator View -->
+    <div *ngIf="currentView === 'calculator'" style="max-width: 400px; margin: 0 auto; text-align: left;">
+      <h2 style="color: white;">Calculator</h2>
+
+      <div style="margin-bottom: 15px;">
+        <label style="color: white;">Number 1:</label><br />
+        <input type="number" [(ngModel)]="num1" style="width: 100%; padding: 8px; box-sizing: border-box;" />
+      </div>
+
+      <div style="margin-bottom: 15px;">
+        <label style="color: white;">Number 2:</label><br />
+        <input type="number" [(ngModel)]="num2" style="width: 100%; padding: 8px; box-sizing: border-box;" />
+      </div>
+
+      <div style="margin-bottom: 15px;">
+        <label style="color: white;">Operation:</label><br />
+        <select [(ngModel)]="operation" style="width: 100%; padding: 8px; box-sizing: border-box;">
+          <option value="add">Add</option>
+          <option value="subtract">Subtract</option>
+          <option value="multiply">Multiply</option>
+        </select>
+      </div>
+
+      <button (click)="compute()"
+        style="padding: 10px 20px; background-color: #0d6efd; color: white; border: none; border-radius: 4px; cursor: pointer;">
+        Compute
+      </button>
+
+      <div *ngIf="result !== null" style="margin-top: 20px; font-weight: bold; font-size: 1.2em; color: white;">
+        Result: <span>{{ result }}</span>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer style="background-color: #333; text-align: center; padding: 15px; border-top: 1px solid #ccc; color: white;">
+    &copy; Umesh, {{ currentYear }}
+  </footer>
+</div>

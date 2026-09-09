@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Server-Side State Management";
+}
+
+<h2>Server-Side State Management Demo</h2>
+
+<div class="my-3 p-3">
+    <h4>1. Session State</h4>
+    <p><strong>Value:</strong> @ViewBag.SessionVal</p>
+    <small class="text-muted">Stored per-user on server; survives multiple requests.</small>
+</div>
+
+<div class="my-3 p-3">
+    <h4>2. HttpContext.Items</h4>
+    <p><strong>Value:</strong> @ViewBag.ItemVal</p>
+    <small class="text-muted">Scoped strictly to current HTTP request lifecycle</small>
+</div>
+
+<div class="my-3 p-3">
+    <h4>3. TempData</h4>
+    <p><strong>Value:</strong> @TempData["Notification"]</p>
+    <small class="text-muted">Short-lived storage ideal for redirects.</small>
+</div>
+
+<div class="my-3 p-3">
+    <h4>4. Memory Cache (IMemoryCache)</h4>
+    <p><strong>Value:</strong> @ViewBag.CacheVal</p>
+    <small class="text-muted">Application-wide shared cache stored in server memory.</small>
+</div>

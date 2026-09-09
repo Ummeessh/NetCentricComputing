@@ -1,0 +1,81 @@
+@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+@{
+    ViewData["Title"] = "Admin Panel";
+    var roles = ViewBag.Roles as List<IdentityRole>;
+    var user = ViewBag.User as IdentityUser;
+    var userRoles = ViewBag.UserRoles as IList<string>;
+    var userClaims = ViewBag.UserClaims as IList<Claim>;
+}
+
+<div style="font-family: sans-serif; padding: 20px;">
+    <h2>Admin Panel - Manage Roles & Claims</h2>
+    
+    <!-- 1. Roles Management GUI -->
+    <h3>1. Manage Roles</h3>
+    <form asp-action="CreateRole" method="post">
+        <input type="text" name="roleName" placeholder="New Role Name" required />
+        <button type="submit">Add Role</button>
+    </form>
+
+    <table border="1" cellpadding="5" style="margin-top: 10px;">
+        <tr><th>Role ID</th><th>Role Name</th><th>Actions</th></tr>
+        @foreach (var r in roles)
+        {
+            <tr>
+                <td>@r.Id</td>
+                <td>@r.Name</td>
+                <td>
+                    <form asp-action="EditRole" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@r.Id" />
+                        <input type="text" name="newName" placeholder="New Name" required />
+                        <button type="submit">Edit</button>
+                    </form>
+                    <form asp-action="DeleteRole" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@r.Id" />
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </table>
+
+    <hr />
+
+    <!-- 2. Assign/Revoke Roles & Claims GUI -->
+    <h3>2. Manage User: @user?.Email</h3>
+    
+    <h4>Roles</h4>
+    <p>Current Roles: <b>@string.Join(", ", userRoles)</b></p>
+    <form asp-action="AssignRole" method="post" style="display:inline;">
+        <input type="hidden" name="userId" value="@user?.Id" />
+        <input type="text" name="roleName" placeholder="Role to Assign" required />
+        <button type="submit">Assign Role</button>
+    </form>
+    <form asp-action="RevokeRole" method="post" style="display:inline;">
+        <input type="hidden" name="userId" value="@user?.Id" />
+        <input type="text" name="roleName" placeholder="Role to Revoke" required />
+        <button type="submit">Revoke Role</button>
+    </form>
+
+    <h4>Claims</h4>
+    <p>Current Claims: <b>@string.Join(", ", userClaims.Select(c => c.Type + "=" + c.Value))</b></p>
+    <form asp-action="AddClaim" method="post" style="display:inline;">
+        <input type="hidden" name="userId" value="@user?.Id" />
+        <input type="text" name="type" value="Permission" placeholder="Claim Type" required />
+        <input type="text" name="value" value="Manage" placeholder="Claim Value" required />
+        <button type="submit">Assign Claim</button>
+    </form>
+    <form asp-action="RemoveClaim" method="post" style="display:inline;">
+        <input type="hidden" name="userId" value="@user?.Id" />
+        <input type="text" name="type" value="Permission" placeholder="Claim Type" required />
+        <input type="text" name="value" value="Manage" placeholder="Claim Value" required />
+        <button type="submit">Revoke Claim</button>
+    </form>
+
+    <hr />
+
+    <!-- 3. Test Authorization -->
+    <h3>3. Test Authorization Policy</h3>
+    <a asp-action="TestAuth" target="_blank"><button>Test /Admin/TestAuth</button></a>
+</div>

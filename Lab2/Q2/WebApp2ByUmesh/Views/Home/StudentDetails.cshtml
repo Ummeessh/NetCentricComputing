@@ -1,0 +1,15 @@
+@model WebApp2ByUmesh.Models.Student
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h2>Student Details</h2>
+
+<div>
+    <p><strong>Student ID:</strong> @Model.StdID</p>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Address:</strong> @Model.Address</p>
+    <p><strong>Faculty:</strong> @Model.Faculty</p>
+</div>
+
+<a asp-action="CreateStudent" class="btn btn-secondary">Back to Form</a>

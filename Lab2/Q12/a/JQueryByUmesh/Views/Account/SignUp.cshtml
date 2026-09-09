@@ -1,0 +1,82 @@
+@model WebApp10ByUmesh.Models.SignUpViewModel
+
+<div class="container mt-4" style="max-width: 450px;">
+    <!-- Display Name & RollNo at top of form -->
+    <div class="alert alert-info text-center">
+        <h4>Name: Umesh</h4>
+        <h5>Roll No: 80011025</h5>
+    </div>
+
+    @if (ViewBag.Message != null)
+    {
+        <div class="alert alert-success">@ViewBag.Message</div>
+    }
+
+    <h2>Sign Up</h2>
+    <form asp-action="SignUp" method="post" id="signupForm">
+        <div class="mb-3">
+            <label class="form-label">Full Name</label>
+            <input asp-for="Name" id="name" class="form-control" />
+            <span id="nameError" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input asp-for="Email" id="email" class="form-control" />
+            <span id="emailError" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Password</label>
+            <input asp-for="Password" type="password" id="password" class="form-control" />
+            <span id="passwordError" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Register</button>
+    </form>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#signupForm").submit(function (e) {
+            let isValid = true;
+
+            // Clear previous errors
+            $(".text-danger").text("");
+
+            // Name validation
+            const name = $("#name").val().trim();
+            if (name === "") {
+                $("#nameError").text("Name is required.");
+                isValid = false;
+            }
+
+            // Email validation (Escaped @@ for Razor)
+            const email = $("#email").val().trim();
+            const emailRegex = /^[^\s@@]+@@[^\s@@]+\.[^\s@@]+$/;
+            if (email === "") {
+                $("#emailError").text("Email is required.");
+                isValid = false;
+            } else if (!emailRegex.test(email)) {
+                $("#emailError").text("Enter a valid email address.");
+                isValid = false;
+            }
+
+            // Password validation
+            const password = $("#password").val();
+            if (password === "") {
+                $("#passwordError").text("Password is required.");
+                isValid = false;
+            } else if (password.length < 6) {
+                $("#passwordError").text("Password must be at least 6 characters.");
+                isValid = false;
+            }
+
+            if (!isValid) {
+                e.preventDefault();
+            }
+        });
+    });
+</script>

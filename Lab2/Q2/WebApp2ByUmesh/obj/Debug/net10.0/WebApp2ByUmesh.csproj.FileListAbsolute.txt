@@ -1,0 +1,196 @@
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.AssemblyInfoInputs.cache
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.AssemblyInfo.cs
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.csproj.CoreCompileInputs.cache
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.MvcApplicationPartsAssemblyInfo.cache
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.RazorAssemblyInfo.cache
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.RazorAssemblyInfo.cs
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.sourcelink.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\appsettings.Development.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\appsettings.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.staticwebassets.runtime.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.staticwebassets.endpoints.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.exe
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.deps.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.runtimeconfig.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.dll
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.pdb
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\scopedcss\bundle\WebApp2ByUmesh.styles.css
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\scopedcss\projectbundle\WebApp2ByUmesh.bundle.scp.css
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\6s45sq0msa-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\rqm3uoqqdi-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\9khfk70y4s-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\2a84yfz7cg-{0}-t1cqhe9u97-t1cqhe9u97.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\5uou1flk43-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\w6sjngqba1-{0}-sejl45xvog-sejl45xvog.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\occll402cv-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\pfjhbpaxsz-{0}-xvp3kq03qx-xvp3kq03qx.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\3itideeb1o-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\1o66bvv1n3-{0}-22vffe00uq-22vffe00uq.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\3hmpgmh6p3-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\0lauom6ghh-{0}-qesaa3a1fm-qesaa3a1fm.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\8osevbc5tc-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\zl8ve3nel1-{0}-tmc1g35s3z-tmc1g35s3z.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\lvliu7izin-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\rp2m7x9r9c-{0}-rxsg74s51o-rxsg74s51o.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\m4v2wiei3i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\1c3rtyr5b0-{0}-q9ht133ko3-q9ht133ko3.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\dsopu4xppn-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\581yd2czz4-{0}-gye83jo8yx-gye83jo8yx.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\23fyx408lb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\z6356iyqc2-{0}-wl58j5mj3v-wl58j5mj3v.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\a7qzkdsmzs-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\j5mulaqnre-{0}-d4r6k3f320-d4r6k3f320.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\s5qqrfjnuc-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\igfgzvvd2w-{0}-keugtjm085-keugtjm085.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\gkmhy4qxkv-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\u1q3f4h7hr-{0}-zub09dkrxp-zub09dkrxp.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\0almem1ku9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\o3ohmtlhlj-{0}-43atpzeawx-43atpzeawx.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\g6kul5d9zd-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\3sz0ofj1zi-{0}-ynyaa8k90p-ynyaa8k90p.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\qbb37nw1oh-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\dj0xxqb0od-{0}-c63t5i9ira-c63t5i9ira.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\3j4cgx2a7o-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\929rz1kx62-{0}-4094rpi4f9-4094rpi4f9.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\rme423kez8-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\04wlp1cs3v-{0}-hd3gran6i8-hd3gran6i8.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\bx9l0nb9cu-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\yrs9dijkt7-{0}-ltid2c489k-ltid2c489k.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\kdl7ooenmh-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\azjevf3rbq-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\nnqaw3keu5-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\nmfisoknni-{0}-u9q1upor1n-u9q1upor1n.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\r0at49opuu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\ka9vzhqm93-{0}-4d85u1mtcx-4d85u1mtcx.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\d9ynyjru7a-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\jm7zd5bbtc-{0}-03hjc8e09r-03hjc8e09r.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\kpp8cn3b8j-{0}-48y08845bh-48y08845bh.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\pzunmq2xk5-{0}-356vix0kms-356vix0kms.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\lqwnuvho6v-{0}-83jwlth58m-83jwlth58m.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\n2s5li3r1v-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\bjrdziz1tg-{0}-worgj0nhwm-worgj0nhwm.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\0me4ryon97-{0}-gk0pw8i4co-gk0pw8i4co.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\9ingu0zxne-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\xmyylphkfk-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\xj288wjrea-{0}-m9qm4tazc0-m9qm4tazc0.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\f7m60tt1ii-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\jzq3oqo8sx-{0}-jjsuc0puko-jjsuc0puko.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\xfzibgxnx8-{0}-9vr69e8ynj-9vr69e8ynj.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\tqauww7hvr-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\w46hhp5ulz-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\2dkmouox72-{0}-23rqqzg6hv-23rqqzg6hv.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\ccr827j0uj-{0}-23rqqzg6hv-23rqqzg6hv.gz
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\staticwebassets.build.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\staticwebassets.development.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\swae.build.ex.cache
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.dll
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\refint\WebApp2ByUmesh.dll
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.pdb
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.genruntimeconfig.cache
+D:\Codes\6th Sem\Dot Net Lab\NET Centric\Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\ref\WebApp2ByUmesh.dll
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\appsettings.Development.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\appsettings.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.staticwebassets.endpoints.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.staticwebassets.runtime.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.exe
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.deps.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.runtimeconfig.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.dll
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\bin\Debug\net10.0\WebApp2ByUmesh.pdb
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.AssemblyInfoInputs.cache
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.AssemblyInfo.cs
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.csproj.CoreCompileInputs.cache
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.MvcApplicationPartsAssemblyInfo.cache
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.RazorAssemblyInfo.cache
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.RazorAssemblyInfo.cs
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.sourcelink.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\scopedcss\bundle\WebApp2ByUmesh.styles.css
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\scopedcss\projectbundle\WebApp2ByUmesh.bundle.scp.css
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\6s45sq0msa-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\rqm3uoqqdi-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\9khfk70y4s-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\2a84yfz7cg-{0}-t1cqhe9u97-t1cqhe9u97.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\5uou1flk43-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\w6sjngqba1-{0}-sejl45xvog-sejl45xvog.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\occll402cv-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\pfjhbpaxsz-{0}-xvp3kq03qx-xvp3kq03qx.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\3itideeb1o-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\1o66bvv1n3-{0}-22vffe00uq-22vffe00uq.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\3hmpgmh6p3-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\0lauom6ghh-{0}-qesaa3a1fm-qesaa3a1fm.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\8osevbc5tc-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\zl8ve3nel1-{0}-tmc1g35s3z-tmc1g35s3z.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\lvliu7izin-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\rp2m7x9r9c-{0}-rxsg74s51o-rxsg74s51o.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\m4v2wiei3i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\1c3rtyr5b0-{0}-q9ht133ko3-q9ht133ko3.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\dsopu4xppn-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\581yd2czz4-{0}-gye83jo8yx-gye83jo8yx.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\23fyx408lb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\z6356iyqc2-{0}-wl58j5mj3v-wl58j5mj3v.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\a7qzkdsmzs-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\j5mulaqnre-{0}-d4r6k3f320-d4r6k3f320.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\s5qqrfjnuc-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\igfgzvvd2w-{0}-keugtjm085-keugtjm085.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\gkmhy4qxkv-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\u1q3f4h7hr-{0}-zub09dkrxp-zub09dkrxp.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\0almem1ku9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\o3ohmtlhlj-{0}-43atpzeawx-43atpzeawx.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\g6kul5d9zd-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\3sz0ofj1zi-{0}-ynyaa8k90p-ynyaa8k90p.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\qbb37nw1oh-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\dj0xxqb0od-{0}-c63t5i9ira-c63t5i9ira.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\3j4cgx2a7o-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\929rz1kx62-{0}-4094rpi4f9-4094rpi4f9.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\rme423kez8-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\04wlp1cs3v-{0}-hd3gran6i8-hd3gran6i8.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\bx9l0nb9cu-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\yrs9dijkt7-{0}-ltid2c489k-ltid2c489k.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\kdl7ooenmh-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\azjevf3rbq-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\nnqaw3keu5-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\nmfisoknni-{0}-u9q1upor1n-u9q1upor1n.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\r0at49opuu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\ka9vzhqm93-{0}-4d85u1mtcx-4d85u1mtcx.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\d9ynyjru7a-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\jm7zd5bbtc-{0}-03hjc8e09r-03hjc8e09r.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\kpp8cn3b8j-{0}-48y08845bh-48y08845bh.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\pzunmq2xk5-{0}-356vix0kms-356vix0kms.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\lqwnuvho6v-{0}-83jwlth58m-83jwlth58m.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\n2s5li3r1v-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\bjrdziz1tg-{0}-worgj0nhwm-worgj0nhwm.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\0me4ryon97-{0}-gk0pw8i4co-gk0pw8i4co.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\9ingu0zxne-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\xmyylphkfk-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\xj288wjrea-{0}-m9qm4tazc0-m9qm4tazc0.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\f7m60tt1ii-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\jzq3oqo8sx-{0}-jjsuc0puko-jjsuc0puko.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\xfzibgxnx8-{0}-9vr69e8ynj-9vr69e8ynj.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\tqauww7hvr-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\w46hhp5ulz-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\2dkmouox72-{0}-23rqqzg6hv-23rqqzg6hv.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\compressed\ccr827j0uj-{0}-23rqqzg6hv-23rqqzg6hv.gz
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\staticwebassets.build.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\staticwebassets.development.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\swae.build.ex.cache
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.dll
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\refint\WebApp2ByUmesh.dll
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.pdb
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\WebApp2ByUmesh.genruntimeconfig.cache
+D:\Codes\6th Sem\Umesh DotNet Lab\Lab2\Q2\WebApp2ByUmesh\obj\Debug\net10.0\ref\WebApp2ByUmesh.dll
