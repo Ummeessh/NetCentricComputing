@@ -6,7 +6,7 @@ namespace WebApp5ByUmesh.Controllers
 {
     public class StudentController : Controller
     {
-        private readonly string connectionString = "Server=host.docker.internal,1433;Database=CollegeDB;User Id=sa;Password=Umesh@12345#;TrustServerCertificate=True;";
+        private readonly string connectionString = "Server=localhost,1433;Database=CollegeDB;User Id=sa;Password=Umesh@12345#;TrustServerCertificate=True;";
 
         public StudentController()
         {
