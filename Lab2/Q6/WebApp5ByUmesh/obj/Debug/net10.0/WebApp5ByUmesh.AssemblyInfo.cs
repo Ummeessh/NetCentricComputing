@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApp5ByUmesh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea876211932b7991975cc0969c71efa80b0dfa3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1539ad911f6bf8513c35a099daa6f0c2480fc206")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApp5ByUmesh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApp5ByUmesh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
